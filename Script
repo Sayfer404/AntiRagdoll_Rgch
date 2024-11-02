@@ -1,0 +1,31 @@
+local lragdoll = game.Players.LocalPlayer.Character["Local Ragdoll"]
+local ragdoll = game.Players.LocalPlayer.Character["Ragdoll"]
+local statehandle = game.Players.LocalPlayer.Character["State Handler"]
+
+lragdoll:Destroy()
+ragdoll:Destroy()
+statehandle:Destroy()
+print("hi")
+local lragdoll = game.Players.LocalPlayer.Character["Local Ragdoll"]
+local ragdoll = game.Players.LocalPlayer.Character["Ragdoll"]
+local statehandle = game.Players.LocalPlayer.Character["State Handler"]
+
+lragdoll:Destroy()
+ragdoll:Destroy()
+statehandle:Destroy()
+print("hi")
+local lragdoll = game.Players.LocalPlayer.Character["Local Ragdoll"]
+local ragdoll = game.Players.LocalPlayer.Character["Ragdoll"]
+local statehandle = game.Players.LocalPlayer.Character["State Handler"]
+
+lragdoll:Destroy()
+ragdoll:Destroy()
+statehandle:Destroy()
+print("hi")
+local lragdoll = game.Players.LocalPlayer.Character["Local Ragdoll"]
+local ragdoll = game.Players.LocalPlayer.Character["Ragdoll"]
+local statehandle = game.Players.LocalPlayer.Character["State Handler"]
+
+lragdoll:Destroy()
+ragdoll:Destroy()
+statehandle:Destroy()
